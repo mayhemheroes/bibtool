@@ -1,0 +1,5 @@
+project: bibtool
+target: bibtool
+
+cmds:
+  - cmd: /bibtool -o out -i @@
