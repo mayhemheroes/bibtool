@@ -1,0 +1,6 @@
+project: bibtool
+target: bibtool
+
+cmds:
+  - cmd: /bibtool @@
+    env: {}
